@@ -1,0 +1,18 @@
+node_modules
+npm-debug.log
+yarn-error.log
+dist
+.next
+out
+coverage
+.DS_Store
+# .env
+.vscode
+.idea
+*.local
+*.log
+Dockerfile
+.dockerignore
+.git
+.gitignore
+# Use a non-root user for security

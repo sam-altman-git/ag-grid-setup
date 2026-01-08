@@ -1,0 +1,20 @@
+.dropdown1 {
+  margin-left: 3%;
+  float: left;
+}
+
+.svg-inline--fa {
+  color: #2d3238;
+  font-size: 20px;
+}
+
+.dropdown-toggle {
+  background-color: transparent;
+  border: transparent;
+  text-decoration: #0b0c0d;
+}
+
+.dropdown-toggle:hover {
+  background-color: transparent;
+  border: transparent;
+}
